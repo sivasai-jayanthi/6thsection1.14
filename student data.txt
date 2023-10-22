@@ -1,0 +1,5 @@
+student name - siva sai 
+student id   - 12345678
+department   - computer
+age          - 23
+number       - 98765432
